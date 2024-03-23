@@ -1,6 +1,6 @@
 export class CreateItemDto {
 
-    id : string;
+    id : number;
 
     name : string;
 
