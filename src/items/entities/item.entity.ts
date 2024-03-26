@@ -11,6 +11,9 @@ export class Item {
 
     @Column()
     qty : string;
+
+    @Column()
+    price : number;
     
 
 }
